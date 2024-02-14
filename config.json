@@ -5,7 +5,7 @@
         "name": "main",
         "main": true,
         "address": "192.168.0.252",
-        "port": "3588",
+        "port": "9000",
         "protokol": "http"
 
     },
