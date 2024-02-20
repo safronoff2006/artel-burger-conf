@@ -4,9 +4,9 @@
     {
         "name": "main",
         "main": true,
-        "address": "80.240.250.157",
-        "port": "3588",
-        "protokol": "http"
+        "address": "artel-kursk.ru/burger",
+        "port": "443",
+        "protokol": "https"
 
     },
     {
