@@ -6,7 +6,7 @@
         "name": "main",
         "main": true,
         "address": "artel-kursk.ru/burger",
-        "port": "443",
+        "port": "",
         "protokol": "https"
 
     },
